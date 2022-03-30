@@ -1,0 +1,4 @@
+com/inyeccion/ejemploAutowired/repository/PosteoRepository.class
+com/inyeccion/ejemploAutowired/model/Posteo.class
+com/inyeccion/ejemploAutowired/EjemploAutowiredApplication.class
+com/inyeccion/ejemploAutowired/controller/PosteoController.class
